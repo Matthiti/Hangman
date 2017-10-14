@@ -1,0 +1,7 @@
+d:\documenten\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+d:\documenten\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\Hangman.exe.config
+d:\documenten\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\Hangman.exe
+d:\documenten\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\Hangman.pdb
+d:\documenten\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\Hangman.exe
+d:\documenten\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\Hangman.pdb
+d:\documenten\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
